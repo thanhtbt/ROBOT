@@ -29,4 +29,4 @@ detected by an ADMM solver. In the latter stage, we propose an effective recursi
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Robust Tensor Tracking With Missing Data Under Tensor-Train Formats*](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view)". **Proc. 30th EUSIPCO**, 2022.
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Robust Tensor Tracking With Missing Data Under Tensor-Train Formats*](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing)". **Proc. 30th EUSIPCO**, 2022. [[PDF](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing)].
